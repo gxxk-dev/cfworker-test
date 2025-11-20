@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "worket-test",
+	"name": "cfworker-test",
 	"main": "src/index.ts",
 	"compatibility_date": "2025-11-20",
 	"compatibility_flags": [
